@@ -143,7 +143,7 @@ See [`examples/technical-architecture.md`](examples/technical-architecture.md) f
 
 1. **Clone or download** this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/claude-council-skill.git
+   git clone https://github.com/itshussainsprojects/Claude-Council-Skill.git
    ```
 
 2. **Open Claude.ai** → Settings → Skills → Add Skill
